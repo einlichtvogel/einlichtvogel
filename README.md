@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://luca-hess.de/images/banner/bloggi.png" align="center" style="width: 100%" />
+<img src="https://luca-hess.de/images/banner/bloggi.jpg" align="center" style="width: 100%" />
 </div>  
   
 
