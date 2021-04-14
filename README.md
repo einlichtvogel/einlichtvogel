@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Your PC has virus 🦠
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockiyt&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockiyt&theme=dark&layout=compact&hide_border=true" align="center" /></div>  
