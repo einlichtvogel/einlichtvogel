@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://luca-hess.de/images/banner/bloggi.jpg" align="center" style="width: 50%" />
+<img src="https://luca-hess.de/images/banner/bloggi.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Luca, a hobby Developer from Germany 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [RiseMC.eu](https://risemc.eu/).
+- 🔭 I’m currently working at [RiseMC.eu](https://risemc.eu/).  
   
 
 - 🧢 I’m trying to learn Maths, because I'm bad at school.  
   
 
-- 🤔 I’m looking for help with Minecraft's GODDEAMN packet system!!!!!  
+- 🤔 I’m looking for help with Minecraft's GODDAMN packet system!!!!!  
   
 
-- 📫 How to reach me: Text me on Discord: blocki#5965.  
+- 📫 How to reach me: Write me on Discord: blocki#5965.
   
 
 - ⚡️ Fun fact: Your PC has virus 🦠  
