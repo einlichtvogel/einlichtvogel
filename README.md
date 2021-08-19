@@ -24,7 +24,7 @@
 <br/>  
 
 
-## My Skills boiiii  
+## My skills boiiii  
 <table><tr><td valign="top" width="33%">
 
 
