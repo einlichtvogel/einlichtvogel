@@ -75,13 +75,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockiyt&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Spotify Listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fo0qxji1899zmmw2owav3b262&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
   
 
 <br/>  
