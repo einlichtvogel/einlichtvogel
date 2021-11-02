@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luca, a hobby Developer from Germany 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [RiseMC.eu](https://risemc.eu/).
+- 🔭 I’m currently working on studyID.
   
 
 - 🧢 I’m trying to learn Maths, because I'm bad at school.  
@@ -73,9 +73,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockiyt&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-  
 
 <br/>  
 
