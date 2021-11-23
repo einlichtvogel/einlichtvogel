@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://luca-hess.de/images/banner/bloggi.jpg" align="center" style="width: 10%" />
-</div>  
-  
-
-### <div align="center">I'm Luca, a hobby Developer from Germany 👨‍💻</div>  
+  ### <div align="center">I'm Luca, a hobby Developer from Germany 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on studyID.
