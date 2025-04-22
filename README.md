@@ -27,9 +27,9 @@ By day, I hobby as a **lighting technician**, making events shine. By night, I'm
 ## 📊 GitHub Stats  
 
 📈 **My Activity:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blockiindahood&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=einlichtvogel&show_icons=true&theme=radical)  
 🔥 **Top Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blockiindahood&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=einlichtvogel&layout=compact&theme=radical)  
 
 ## 🚀 Let's Connect!  
 💬 **Want to chat about tech, lighting, or automation?**  
