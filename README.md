@@ -15,8 +15,8 @@ By day, I hobby as a **lighting technician**, making events shine. By night, I'm
 💻 **Main Stacks:**  
 - **Frontend:** Vue.js, Swift, JavaScript, TypeScript  
 - **Backend:** Node.js NestJS, Firebase, PostgreSQL, MySQL  
-- **Systems:** Linux, Raspberry Pi, Unity, Mac, Windows
-- **Random:** Docker, Git, GitHub, GitLab 
+- **Systems:** Linux, Raspberry Pi, Mac, Windows
+- **Random:** Docker, Git, GitHub, GitLab, Unity
 
 📚 **Currently Learning:** MA Lighting GrandMA3  
 🎶 **Hobbies:** Coding, electronics, and exploring new tech  
