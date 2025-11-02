@@ -1,8 +1,9 @@
+
 <p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/10169-welcome.png" width="20%">
+    <img src="images/einlichtvogel.png" width="90%">
 </p>
 
-# 👋 Hey there, I'm Luca!
+# 👋 Hey there, I'm Luca! <img src="https://cdn3.emoji.gg/emojis/10169-welcome.png" width="5%">
 
 🚀 **Freelancer | Lighting Technician | Developer**  
 🌍 **Based in Bavaria, Germany**  
